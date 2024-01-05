@@ -14,6 +14,8 @@ Visualize the ideological position of members of US Congress on a liberal/conser
 From the command line:
 `bokeh serve --show simple_spectrum.py`
 
+This will open a web browser and display the plots.
+
 
 ## Data Source:
 Lewis, Jeffrey B., Keith Poole, Howard Rosenthal, Adam Boche, Aaron Rudkin, and Luke Sonnet (2024). Voteview: Congressional Roll-Call Votes Database. https://voteview.com/
